@@ -9,6 +9,7 @@ import time
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+import streamlit as st
 
 from rag.cloud_auth import get_google_credentials
 
@@ -17,7 +18,12 @@ from rag.cloud_auth import get_google_credentials
 # LOAD ENVIRONMENT
 # ============================================================
 
-load_dotenv()
+ENV_PATH = os.path.join(
+    os.path.dirname(__file__),
+    ".env"
+)
+
+load_dotenv(ENV_PATH)
 
 
 # ============================================================
@@ -36,7 +42,7 @@ LOCATION = os.getenv(
 
 MODEL_NAME = os.getenv(
     "GEMINI_MODEL",
-    "gemini-2.5-flash"
+    "gemini-3.8-flash"
 )
 
 # Optional fallback model.
@@ -44,7 +50,7 @@ MODEL_NAME = os.getenv(
 # we can try this model after retries.
 FALLBACK_MODEL = os.getenv(
     "GEMINI_FALLBACK_MODEL",
-    "gemini-2.5-flash"
+    "gemini-3.8-flash"
 )
 
 # Number of retries for temporary errors.
@@ -67,21 +73,36 @@ print("=" * 60)
 gemini_start = time.time()
 
 try:
-    google_credentials = get_google_credentials()
 
+    # --------------------------------------------------------
+    # GEMINI API KEY
+    # Streamlit Cloud → st.secrets
+    # Local machine → rag/.env / environment variable
+    # --------------------------------------------------------
+
+    try:
+        API_KEY = st.secrets.get(
+            "GEMINI_API_KEY",
+            os.getenv("GEMINI_API_KEY")
+        )
+    except Exception:
+        API_KEY = os.getenv("GEMINI_API_KEY")
+
+    if not API_KEY:
+        raise RuntimeError(
+            "GEMINI_API_KEY was not found."
+        )
+
+    # Direct Gemini API client
     client = genai.Client(
-        vertexai=True,
-        project=PROJECT_ID,
-        location=LOCATION,
-        credentials=google_credentials
+        api_key=API_KEY
     )
 
     print(
-        "Gemini Vertex AI client initialized successfully."
+        "Gemini API client initialized successfully."
     )
 
 except Exception as e:
-
     print(
         "GEMINI INITIALIZATION ERROR:"
     )
