@@ -1,0 +1,142 @@
+{
+  "9c3e169a-9604-480d-a314-81925e4988f7": {
+    "summary": "This subject has 13 recorded question(s). About 13 recent topic/question entries have been discussed. Student preferences detected: examples are useful, exam-oriented answers, step-by-step explanations",
+    "important_points": [
+      "📚 PDF / RAG ANSWER:\n\nCloud computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" This means that instead of buying and maintaining physical hardware, users can access these services whenever needed from a cloud provider.\n\nThe \"cloud\" itself is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. Instead of storing files or running software on your own computer, cloud computing allows you to access them through the internet.\n\n**Examples of Cloud Computing:**\n*   Storing photos in Goo",
+      "📚 PDF / RAG ANSWER:\n\nThe provided study material does not explicitly list features of cloud computing. However, it does mention that cloud computing is an application of Autonomic Computing and that Web 2.0 supports cloud computing by providing scalable storage and computing resources.\n\n🌐 ONLINE AI ANSWER:\n\nBased on our previous discussion about cloud computing, it looks like your question \"**feature of its**\" (likely a typo for *\"features of it\"*) is asking about the **key features (or characteristics) of cloud computing**. \n\nAccording to the official industry standard (defined by NIST), cloud computing has **five essential features**. Here is an easy-to-understand breakdown of these featur",
+      "📚 PDF / RAG ANSWER:\n\nThe study material lists advantages for several different concepts:\n\n**Advantages of a very secure system (likely referring to a One-Time Pad based on context):**\n*   Very secure when the key is truly random.\n*   Difficult to crack.\n*   Each message uses a different key.\n*   Provides high confidentiality.\n\n**Advantages of a system with centralized management and security clearance (likely referring to Mandatory Access Control based on context):**\n*   Very high security.\n*   Centralized management.\n*   Suitable for sensitive information.\n*   Prevents unauthorized sharing.\n\n**Advantages of Transposition Technique (compared to Substitution Technique):**\n*   It is more diffi",
+      "📚 PDF / RAG ANSWER:\n\nHere are the steps in the SLA (Service Level Agreement) life cycle:\n\n*   **1) Discover Service Provider (SP):**\n    *   The customer searches for cloud service providers.\n    *   The provider is selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n\n*   **2) Define SLA:**\n    *   The customer and the provider decide on the specific service details.\n    *   They define aspects such as uptime, performance, security, and support.\n    *   **Remember:** This step focuses on \"what service will be provided.\"\n\n*   **3) Establish Agreement:**\n    *   Both parties agree ",
+      "📚 PDF / RAG ANSWER:\n\nHere are the steps in the SLA (Service Level Agreement) life cycle:\n\n*   **1) Discover Service Provider (SP):**\n    *   The customer searches for cloud service providers.\n    *   The provider is selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n\n*   **2) Define SLA:**\n    *   The customer and the provider decide on the specific service details.\n    *   They define aspects such as uptime, performance, security, and support.\n    *   **Remember:** This step focuses on \"what service will be provided.\"\n\n*   **3) Establish Agreement:**\n    *   Both parties agree ",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.\n\n🌐 ONLINE AI ANSWER:\n\n### What is \"The Cloud\"?\n\nAt its simplest, **the cloud** is not a physical thing in the sky. It is a term used to describe a global network of remote physical servers located all over the world. These servers are connected together and operate as a single ecosystem. \n\nInstead of storing files, running programs, or processing data on your computer's local hard drive, you do all of these things **over the internet** on these remote servers.\n\n---\n\n### How the Cloud Works (Step-by-Step)\n\nTo understand the cloud, think of how you access your data step-by-step:\n\n1. **The Request:** You open an app (lik",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.\n\n🌐 ONLINE AI ANSWER:\n\n### What is Cloud Computing?\n\nAt its simplest, **cloud computing** is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the internet (\"the cloud\"). \n\nInstead of buying, owning, and maintaining physical servers or hard drives to run applications or store files, you rent access to these resources from a cloud provider (like Amazon Web Services, Microsoft Azure, or Google Cloud) on a **pay-as-you-go** basis.\n\n---\n\n### How Cloud Computing Works (Step-by-Step)\n\nTo understand how it works in practice, think of this step-by-step process wh",
+      "📚 PDF / RAG ANSWER:\n\nA Service Level Agreement (SLA) is a documented agreement that defines the expected level of services, performance metrics, responsibilities, and penalties between a service provider and a customer.\n\n**Needs of SLA:**\n*   Define service quality\n*   Set customer expectations\n*   Ensure accountability\n*   Improve reliability\n*   Provide performance measurement\n\n**Parameters of SLA:**\n1.  **Availability (uptime):** Measures how long the service remains operational.\n    *   *Example:* 99.95% uptime for Email Service.\n2.  **Response Time:** The time taken to acknowledge a customer request after it is reported.\n    *   *Example:* If a customer reports an issue at 10:00 AM and ",
+      "📚 PDF / RAG ANSWER:\n\nA Service Level Agreement (SLA) is a documented agreement that defines the expected level of services, performance metrics, responsibilities, and penalties between a service provider and a customer.\n\n**Needs of SLA:**\n*   Define service quality\n*   Set customer expectations\n*   Ensure accountability\n*   Improve reliability\n*   Provide performance measurement\n\n**Parameters of SLA:**\n1.  **Availability (uptime):** Measures how long the service remains operational.\n    *   *Example:* 99.95% uptime for Email Service.\n2.  **Response Time:** The time taken to acknowledge a customer request after it is reported.\n    *   *Example:* If a customer reports an issue at 10:00 AM and ",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.\n\n🌐 ONLINE AI ANSWER:\n\nHere is a clear, exam-oriented explanation of **Cloud Computing** designed to help you understand the concept and ace any related questions on your test.\n\n---\n\n### What is Cloud Computing? (The Core Definition)\n\nAt its simplest, **cloud computing** is the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—**over the internet** (often referred to as \"the cloud\").\n\nInstead of buying, owning, and maintaining expensive physical servers or hard drives to run applications or save data, you rent access to these resources from a cloud provider on a **p",
+      "📚 PDF / RAG ANSWER:\n\nHere is an explanation of Cloud Computing and SLA:\n\n### Cloud Computing\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" This means that instead of buying and maintaining physical hardware, users can access these services whenever needed from a cloud provider.\n\nThe \"cloud\" itself is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. Instead of storing files or running software on your own computer, cloud computing allows you to access them through ",
+      "📚 PDF / RAG ANSWER:\n\nHere is an explanation of Cloud Computing and SLA:\n\n### Cloud Computing\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" This means that instead of buying and maintaining physical hardware, users can access these services whenever needed from a cloud provider.\n\nThe \"cloud\" itself is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. Instead of storing files or running software on your own computer, cloud computing allows you to access them through "
+    ],
+    "topics_discussed": [
+      "what is cloud computing?",
+      "feature of its",
+      "advantages",
+      "explain sla cycle",
+      "explain SLA cycle",
+      "explain cloud",
+      "explain cloud",
+      "what is cloud computing",
+      "what is sla",
+      "what is cloud computing",
+      "what is cloud computing",
+      "what is cloud computing and sla",
+      "what is cloud computing and sla"
+    ],
+    "student_preferences": [
+      "examples are useful",
+      "exam-oriented answers",
+      "step-by-step explanations"
+    ],
+    "questions_count": 13,
+    "updated_at": "2026-08-21T13:39:49"
+  },
+  "1b016fb1-c1ab-4a63-b7be-817c106c283c": {
+    "summary": "This subject has 9 recorded question(s). About 9 recent topic/question entries have been discussed. Student preferences detected: examples are useful, exam-oriented answers, step-by-step explanations",
+    "important_points": [
+      "📚 PDF / RAG ANSWER:\n\nCloud computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and maintaining physical hardware, users can access these services whenever needed from a cloud.\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This allows users to access files and run software through the internet instead of storing them on their own computers.\n\n**Examples of Cloud Computing:**\n*   Storing photos in Google Drive.\n*   Watching movies on Velflix.\n* ",
+      "📚 PDF / RAG ANSWER:\n\nThe SLA (Service Level Agreement) life cycle involves several steps:\n\n*   **Discover Service Provider (SP):** The customer searches for cloud service providers. The provider is then selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n*   **Define SLA:** The customer and provider decide on the details of the service. They define aspects such as uptime, performance, security, and support. This step determines \"what service will be provided.\"\n*   **Establish Agreement:** Both parties agree to the terms of the SLA. The agreement is signed, and the service begins.",
+      "📚 PDF / RAG ANSWER:\n\nThe SLA (Service Level Agreement) life cycle involves several steps:\n\n*   **Discover Service Provider (SP):** The customer searches for cloud service providers. The provider is then selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n*   **Define SLA:** The customer and provider decide on the details of the service. They define aspects such as uptime, performance, security, and support. This step determines \"what service will be provided.\"\n*   **Establish Agreement:** Both parties agree to the terms of the SLA. The agreement is signed, and the service begins.",
+      "📚 PDF / RAG ANSWER:\n\nThe SLA (Service Level Agreement) life cycle involves several steps:\n\n*   **Discover Service Provider (SP):** The customer searches for cloud service providers. The provider is then selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n*   **Define SLA:** The customer and provider decide on the details of the service. They define aspects such as uptime, performance, security, and support. This step determines \"what service will be provided.\"\n*   **Establish Agreement:** Both parties agree to the terms of the SLA. The agreement is signed, and the service begins.",
+      "📚 PDF / RAG ANSWER:\n\nThe SLA (Service Level Agreement) life cycle involves several steps:\n\n*   **Discover Service Provider (SP):** The customer searches for cloud service providers. The provider is then selected based on factors like cost, security, and the services they offer.\n    *   **Example:** A company compares AWS, Azure, and Google Cloud before choosing one.\n*   **Define SLA:** The customer and provider decide on the details of the service. They define aspects such as uptime, performance, security, and support. This step determines \"what service will be provided.\"\n*   **Establish Agreement:** Both parties agree to the terms of the SLA. The agreement is signed, and the service begins.",
+      "📚 PDF / RAG ANSWER:\n\nA Service Level Agreement (SLA) is a documented agreement that defines the expected level of services, performance metrics, responsibilities, and penalties between a service provider and a customer.\n\n**Key aspects of an SLA:**\n\n*   **Defines Service Quality:** It outlines the standards for the service provided.\n*   **Sets Customer Expectations:** It clearly communicates what the customer can expect from the service.\n*   **Ensures Accountability:** It holds the service provider responsible for meeting the agreed-upon service levels.\n*   **Improves Reliability:** By setting standards, it helps ensure the service operates consistently.\n*   **Provides Performance Measurement",
+      "📚 PDF / RAG ANSWER:\n\nA Service Level Agreement (SLA) is a documented agreement that defines the expected level of services, performance metrics, responsibilities, and penalties between a service provider and a customer.\n\n**Key aspects of an SLA:**\n\n*   **Defines Service Quality:** It outlines the standards for the service provided.\n*   **Sets Customer Expectations:** It clearly communicates what the customer can expect from the service.\n*   **Ensures Accountability:** It holds the service provider responsible for meeting the agreed-upon service levels.\n*   **Improves Reliability:** By setting standards, it helps ensure the service operates consistently.\n*   **Provides Performance Measurement",
+      "🌐 ONLINE AI ANSWER:\n\n### What is Cloud Computing?\n\nAt its simplest, **cloud computing** is the delivery of computing services over the internet (\"the cloud\") on a **pay-as-you-go** basis. \n\nInstead of buying, owning, and maintaining physical servers and hard drives to run applications or store data on your local computer, you rent access to these resources from cloud providers (like Amazon Web Services, Microsoft Azure, or Google Cloud).\n\n---\n\n### How Does It Work? (A Step-by-Step Breakdown)\n\n1. **The Infrastructure:** Cloud providers build massive, secure data centers filled with thousands of physical computers (servers) and storage disks.\n2. **The Connection:** Users connect to these remot",
+      "📚 PDF / RAG ANSWER:\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and maintaining physical hardware, users can access these services whenever needed from a cloud.\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This allows users to access files and run software through the internet instead of storing them on their own computers.\n\n**Examples of Cloud Computing:**\n*   Storing photos in Google Drive.\n*   Watching movies on Velflix.\n* "
+    ],
+    "topics_discussed": [
+      "what is cloud",
+      "explain SLA cycle",
+      "explain sla cycle",
+      "explain sla cycle",
+      "explain sla cycle",
+      "what is sla",
+      "explain cloud computing",
+      "explain cloud computing",
+      "what is cloud computing"
+    ],
+    "student_preferences": [
+      "examples are useful",
+      "exam-oriented answers",
+      "step-by-step explanations"
+    ],
+    "questions_count": 9,
+    "updated_at": "2026-08-21T13:38:30"
+  },
+  "3a2b030f-de1c-4914-8967-4dacd62a9110": {
+    "summary": "This subject has 11 recorded question(s). About 11 recent topic/question entries have been discussed. Student preferences detected: exam-oriented answers, examples are useful, step-by-step explanations",
+    "important_points": [
+      "📚 PDF / RAG ANSWER:\n\nCloud computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and physically maintaining hardware, users can access these services from cloud service providers whenever needed from \"the cloud.\"\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This means that instead of storing files or running software on your own computer, cloud computing allows you to access them through the internet.\n\n**Examples of Cloud Computing:**\n*   Stor",
+      "🌐 ONLINE AI ANSWER:\n\n# Understanding Cloud Computing and SLAs\n\nTo help you ace your exams, here is a clear, structured breakdown of **Cloud Computing** and **SLAs (Service Level Agreements)**, including what they are, how they work together, and real-world examples.\n\n---\n\n## Part 1: What is Cloud Computing?\n\n**Cloud Computing** is the delivery of computing services—including servers, storage, databases, networking, software, and analytics—over the Internet (\"the cloud\"). \n\nInstead of buying and maintaining physical data centers and servers, companies rent access to these resources from cloud providers (like Amazon Web Services, Microsoft Azure, or Google Cloud) on a **pay-as-you-go** basis.\n",
+      "📚 PDF / RAG ANSWER:\n\n# Cloud Computing and SLA\n\n## Cloud Computing\n\n**Cloud Computing** is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and physically maintaining hardware, users can access these services from cloud service providers whenever needed from \"the cloud.\"\n\n*   The cloud is a network of remote data centers owned and managed by cloud providers.\n*   These data centers contain thousands of servers that store data and run applications.\n*   Users can access these services through the internet instead of storing files or running software on their own computers.\n\n**E",
+      "📚 PDF / RAG ANSWER:\n\n# Examinable Topics and Likely Exam Questions\n\n## 2 Marks Questions\n\n1.  **Very Important:** Define **Cloud Computing**.\n    *   **Topic/Reason:** This is a fundamental definition for the course, appearing at the very beginning of the study material.\n2.  **Important:** What is a **Service Level Agreement (SLA)**?\n    *   **Topic/Reason:** This is a core definition for TLO 3.1 and is explicitly defined in the material.\n3.  **Possible:** List two **advantages of SLA**.\n    *   **Topic/Reason:** The advantages are clearly listed in the study material, making it a straightforward recall question.\n\n## 4 Marks Questions\n\n1.  **Very Important:** Explain the **steps in SLA manag",
+      "📚 PDF / RAG ANSWER:\n\n## 🎯 Predicted Questions\n\nNo suitable historical-style questions could be extracted from the uploaded material.\n\n**Tip:** Upload previous question papers containing clearly written questions such as `Explain...`, `Define...`, or questions ending with `?`.",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.\n\n🌐 ONLINE AI ANSWER:\n\n# What is Cloud Computing?\n\n**Cloud computing** is the delivery of computing services—such as servers, storage, databases, networking, software, and analytics—over the internet (\"the cloud\") on a **pay-as-you-go** basis. \n\nInstead of buying, owning, and physically maintaining expensive data servers and hard drives, you rent access to these services from cloud providers whenever you need them.\n\n---\n\n## 💡 A Simple Analogy: Electricity vs. Generators\n\n* **The Old Way (On-Premise):** If you wanted electricity in the past, you had to buy, run, and maintain your own noisy generator in your backyard. \n*",
+      "📚 PDF / RAG ANSWER:\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and physically maintaining hardware, users can access these services from cloud service providers whenever needed from \"the cloud.\"\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This means that instead of storing files or running software on your own computer, cloud computing allows you to access them through the internet.\n\n**Examples of Cloud Computing:**\n*   Stor",
+      "📚 PDF / RAG ANSWER:\n\n## 2 Marks Questions\n\n1.  **Very Important:** Define **Cloud Computing**.\n    *   **Topic/Reason:** This is a fundamental definition for the course, appearing at the very beginning of the study material.\n2.  **Important:** List two examples of Cloud Computing in daily life.\n    *   **Topic/Reason:** The study material provides clear, relatable examples of cloud computing.\n3.  **Possible:** State two needs for Cloud Computing.\n    *   **Topic/Reason:** The material explicitly lists \"Needs for cloud Computing,\" making this a direct recall question.\n\n## 4 Marks Questions\n\n1.  **Very Important:** Explain Cloud Computing in a nutshell, including what \"the Cloud\" is.\n    *   *",
+      "📚 PDF / RAG ANSWER:\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and physically maintaining hardware, users can access these services from cloud service providers whenever needed from \"the cloud.\"\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This means that instead of storing files or running software on your own computer, cloud computing allows you to access them through the internet.\n\n**Examples of Cloud Computing:**\n*   Stor",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.\n\n🌐 ONLINE AI ANSWER:\n\nThe main character of the movie **Krrish 3** (often referred to by fans as *Krrish 2* because it is the second film where he actually appears as the superhero Krrish) is **Krishna Mehra**, who is also known by his superhero alter-ego, **Krrish**. \n\nThe character is played by Bollywood actor **Hrithik Roshan**.\n\n---\n\n### Quick Character Breakdown:\n* **Real Name:** Krishna Mehra\n* **Superhero Name:** Krrish\n* **Father's Name:** Rohit Mehra (the scientist with special abilities from the prequel *Koi... Mil Gaya*, also played by Hrithik Roshan)\n* **Actor:** Hrithik Roshan",
+      "📚 PDF / RAG ANSWER:\n\nCloud Computing is the delivery of computing services such as servers, storage, databases, networking, software, analytics, and intelligence \"on a pay-as-you-go basis.\" Instead of buying and physically maintaining hardware, users can access these services from cloud service providers whenever needed from \"the cloud.\"\n\nThe cloud is a network of remote data centers owned and managed by cloud providers. These data centers contain thousands of servers that store data and run applications. This means that instead of storing files or running software on your own computer, cloud computing allows you to access them through the internet.\n\n**Examples of Cloud Computing:**\n*   Stor"
+    ],
+    "topics_discussed": [
+      "what is cloud computing",
+      "what is cloud computing and sla",
+      "explain cloud computing and sla",
+      "explain cloud computing and sla",
+      "sla and cloud computing",
+      "what is cloud computing",
+      "what is cloud computing",
+      "what is cloud computing",
+      "what is cloud computing",
+      "what is the main character name of movie , krish 2",
+      "what is cloud"
+    ],
+    "student_preferences": [
+      "exam-oriented answers",
+      "examples are useful",
+      "step-by-step explanations"
+    ],
+    "questions_count": 11,
+    "updated_at": "2026-10-04T01:53:48"
+  },
+  "0080f82d-ce36-4b38-b4c4-9ff8bf5d48e2": {
+    "summary": "This subject has 2 recorded question(s). About 2 recent topic/question entries have been discussed. Student preferences detected: exam-oriented answers, examples are useful, step-by-step explanations",
+    "important_points": [
+      "📚 PDF / RAG ANSWER:\n\nHere are some likely exam questions based on the provided study material:\n\n### 4 Marks Questions\n\n1.  **Very Important** (Definition/Fundamentals)\n    Define Cloud Computing and provide two real-life examples of its use.\n2.  **Important** (Core Concepts)\n    List and briefly explain two needs for Cloud Computing.\n3.  **Possible** (Specific Feature)\n    What is \"per unit pricing\" in Cloud Economics? Give an example.\n\n### 6 Marks Questions\n\n1.  **Very Important** (Comparative/Problem-Solution)\n    Explain how Cloud Computing solves the issues identified as \"Needs for Cloud Computing.\"\n2.  **Important** (Detailed Concept)\n    Describe the concept of \"Admission Control\" in C",
+      "📚 PDF / RAG ANSWER:\n\nHere are some likely exam questions based on the provided study material:\n\n### 2 Marks Questions\n\n1.  **Very Important** (Definition)\n    Define Service Level Agreement (SLA).\n    *Reason: This is a fundamental definition for the topic.*\n\n2.  **Important** (Concept)\n    What is the purpose of the \"Discover Service Provider\" step in the SLA life cycle?\n    *Reason: This is the first step in a key process, making it important to understand its objective.*\n\n3.  **Important** (Concept)\n    State two needs for an SLA.\n    *Reason: The material explicitly lists \"Needs of SLA,\" which is a direct recall question.*\n\n4.  **Possible** (Definition)\n    What is \"Response Time\" as a p"
+    ],
+    "topics_discussed": [
+      "what is cloud computing",
+      "sla cycle"
+    ],
+    "student_preferences": [
+      "exam-oriented answers",
+      "examples are useful",
+      "step-by-step explanations"
+    ],
+    "questions_count": 2,
+    "updated_at": "2026-09-29T08:22:19"
+  },
+  "e5d3e0e9-cd5a-4e08-bb03-717c60843a0e": {
+    "summary": "This subject has 2 recorded question(s). About 2 recent topic/question entries have been discussed. Student preferences detected: No specific preference detected.",
+    "important_points": [
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document.",
+      "📚 PDF / RAG ANSWER:\n\nThe answer is not available in the uploaded document."
+    ],
+    "topics_discussed": [
+      "what is the main character name of movie , krish 2",
+      "what is the main character name of movie , krish 2"
+    ],
+    "student_preferences": [],
+    "questions_count": 2,
+    "updated_at": "2026-09-29T08:32:53"
+  }
+}
