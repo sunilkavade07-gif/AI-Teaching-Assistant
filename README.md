@@ -1,61 +1,70 @@
 # 🤖 AI Teaching Assistant
 
-> An AI-powered teaching assistant designed to help students learn, understand, and interact with educational content using Retrieval-Augmented Generation (RAG).
+> An AI-powered learning assistant that helps students study educational content using Retrieval-Augmented Generation (RAG), document processing, semantic retrieval, and Google Gemini.
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/sunilkavade07-gif/AI-Teaching-Assistant)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.61.1-red?logo=streamlit)](https://streamlit.io/)
+[![Google Gemini](https://img.shields.io/badge/Google-Gemini-orange)](https://ai.google.dev/)
+[![RAG](https://img.shields.io/badge/AI-RAG-purple)]()
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![License](https://img.shields.io/badge/License-Educational-blue)]()
 
 ---
 
 ## 📌 Project Overview
 
-The **AI Teaching Assistant** is an intelligent educational support system that helps students interact with their learning materials through AI-powered question answering.
+**AI Teaching Assistant** is an AI-powered educational application designed to help students understand and interact with their study material.
 
-The project uses a **Retrieval-Augmented Generation (RAG)** approach to process educational documents, retrieve relevant information, and generate context-aware responses.
+The system uses a **Retrieval-Augmented Generation (RAG)** pipeline to process educational documents, retrieve relevant information, and generate context-aware answers.
 
-Instead of relying only on the knowledge stored inside a language model, the system can use uploaded educational content as a knowledge source.
+Students can upload PDF study material, select subjects, ask questions, choose different study modes, and receive AI-generated answers based on their learning content.
 
-### 🎯 Goal
+---
 
-The main goal of this project is to provide students with an intelligent assistant that can:
+## 🎯 Project Goals
 
-- Understand educational documents
-- Process PDF-based learning material
-- Retrieve relevant information
-- Answer student questions using contextual information
-- Provide AI-powered educational assistance
-- Support online AI-based responses
-- Maintain a modular and testable architecture
+The main goal of the project is to provide students with an intelligent and interactive learning assistant that can:
+
+- 📚 Process educational documents
+- 📄 Read and process PDF study material
+- 🧩 Split documents into meaningful chunks
+- 🧠 Retrieve relevant information using semantic retrieval
+- 🤖 Generate AI-powered answers
+- 💬 Maintain subject-based conversations
+- 🎯 Support different study modes
+- 🌐 Provide online AI responses
+- 📊 Track basic learning activity
+- 🔐 Keep API credentials outside the source code
 
 ---
 
 ## ✨ Key Features
 
-### 📚 Document Processing
+### 📚 PDF & Document Processing
 
-- PDF document processing
-- Text extraction and preprocessing
-- Document chunking
-- Preparation of educational content for retrieval
+- Upload PDF study material
+- Extract text from documents
+- Process educational content
+- Split documents into smaller chunks
+- Store processed document information
 
 ### 🧠 Retrieval-Augmented Generation
 
-The project follows a RAG pipeline:
+The application follows a RAG workflow:
 
 ```text
-Educational Material
+PDF / Study Material
         ↓
-Document Processing
+Text Extraction
         ↓
 Text Chunking
         ↓
-Knowledge Storage
+Embeddings
         ↓
-User Question
+Vector / Semantic Retrieval
         ↓
-Relevant Information Retrieval
+Relevant Context
         ↓
-AI Response Generation
+Google Gemini
         ↓
-Student Answer
+Context-Aware Answer
