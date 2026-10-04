@@ -1,3 +1,4 @@
+🚀 **Live Demo:** https://ai-teaching-assistant-tbts6w5pzuuewgqhxdkvw.streamlit.app/
 # 🤖 AI Teaching Assistant
 
 > An AI-powered teaching assistant that helps students understand educational content using Retrieval-Augmented Generation (RAG), semantic retrieval, document processing, and Google Gemini.
