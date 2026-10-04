@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+from rag.cloud_auth import get_google_credentials
+
 
 # ============================================================
 # LOAD ENVIRONMENT
@@ -65,11 +67,13 @@ print("=" * 60)
 gemini_start = time.time()
 
 try:
+    google_credentials = get_google_credentials()
 
     client = genai.Client(
         vertexai=True,
         project=PROJECT_ID,
-        location=LOCATION
+        location=LOCATION,
+        credentials=google_credentials
     )
 
     print(
@@ -664,7 +668,27 @@ ANSWER:
             "PDF-based answer right now. "
             "Please try again."
         )
+# ============================================================
+# ANSWER GENERATOR CLASS
+# ============================================================
 
+class AnswerGenerator:
+    """
+    Wrapper class used by the Streamlit application.
+
+    The actual Gemini RAG logic is implemented by
+    the generate_answer() function above.
+    """
+
+    def generate_answer(
+        self,
+        question,
+        context
+    ):
+        return generate_answer(
+            question,
+            context
+        )
 
 # ============================================================
 # DIRECT TEST

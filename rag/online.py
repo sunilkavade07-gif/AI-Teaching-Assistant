@@ -8,6 +8,7 @@ import time
 from pathlib import Path
 
 from dotenv import load_dotenv
+import streamlit as st
 from google import genai
 from google.genai import types
 
@@ -40,7 +41,13 @@ load_dotenv(ENV_PATH)
 # API KEY
 # ============================================================
 
-API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    API_KEY = st.secrets.get(
+        "GEMINI_API_KEY",
+        os.getenv("GEMINI_API_KEY")
+    )
+except Exception:
+    API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 if not API_KEY:
@@ -56,10 +63,16 @@ else:
 # MODEL
 # ============================================================
 
-ONLINE_MODEL = os.getenv(
-    "ONLINE_GEMINI_MODEL",
-    "gemini-3.6-flash"
-)
+try:
+    ONLINE_MODEL = st.secrets.get(
+        "ONLINE_GEMINI_MODEL",
+        os.getenv("ONLINE_GEMINI_MODEL", "gemini-3.6-flash")
+    )
+except Exception:
+    ONLINE_MODEL = os.getenv(
+        "ONLINE_GEMINI_MODEL",
+        "gemini-3.6-flash"
+    )
 
 print(f"ONLINE MODEL: {ONLINE_MODEL}")
 

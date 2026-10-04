@@ -6,7 +6,7 @@ from pypdf import PdfReader, PdfWriter
 from google.api_core.client_options import ClientOptions
 
 from google.cloud import documentai_v1 as documentai
-
+from rag.cloud_auth import get_google_credentials
 
 # ============================================================
 # GOOGLE CLOUD CONFIGURATION
@@ -29,9 +29,12 @@ def create_document_ai_client():
         api_endpoint=f"{LOCATION}-documentai.googleapis.com"
     )
 
+    google_credentials = get_google_credentials()
+
     client = (
         documentai.DocumentProcessorServiceClient(
-            client_options=client_options
+            client_options=client_options,
+            credentials=google_credentials
         )
     )
 
